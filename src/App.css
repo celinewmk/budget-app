@@ -1,0 +1,59 @@
+body {
+  color: #fff;
+  background-image: url('images/budget.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+
+.app-header {
+  background-color: #2f3243;
+  color:#fff;
+  padding: 15px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.app-footer {
+  margin-top: 60px;
+  margin-bottom: 0;
+  background-color: #2f3243;
+  color:#ffff;
+  padding-top: 20px;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+.footer-note{
+  text-align: center;
+  text-decoration: underline;
+  color: #8593cb;
+  padding: 30px;
+}
+
+.column {
+  text-align: center;
+  width: 420px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.btn{
+  background-color: #27b0da;
+  border-radius: 60px;
+  margin-right: 20px;
+  color:#ffff;
+}
+
+.button{
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  padding:0;
+}
+
+
+
